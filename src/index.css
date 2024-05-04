@@ -1,0 +1,28 @@
+:root {
+  --card-background-color:#313a49;
+  --background-color: #202632;
+  --principal-font-color: #cfe3ea;
+  --secondary-font-color:#53ffab;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--principal-font-color);
+  font-family: "Roboto", sans-serif;
+  font-size: 1.6rem;
+}
+
