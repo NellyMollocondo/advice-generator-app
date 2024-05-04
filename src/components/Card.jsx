@@ -22,7 +22,7 @@ export function Card() {
     return (
         <>
             <article className="card">
-                <p className="card__title">ADVICE {advice.id}</p>
+                <h1 className="card__title">ADVICE {advice.id}</h1>
                 {advice && <p className="card__advice">{advice.advice}</p>}
                 {isDesktopOrLaptop ? <PatternDividerDesktop/> : <PatternDividerMobile />}
                 <Button handleClick={handleClick} />

@@ -1,8 +1,28 @@
-# React + Vite
+# App generadora de avisos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción general
 
-Currently, two official plugins are available:
+Esta es una solución al desafío Advice generator app de Frontend Mentor
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Reto
+Los usuarios deberían poder:
+- Ver el diseño óptimo para la aplicación según el tamaño de pantalla de su dispositivo
+- Ver estados de desplazamiento para todos los elementos interactivos en la página
+- Genera un nuevo consejo haciendo clic en el ícono del dado
+
+## Captura de pantalla
+
+Imagen del sitio web en desktop
+![Esta es una imagen del sitio web en desktop](./src/assets/app-desktop.jpg)
+
+Imagen del sitio web en dispositivo móvil
+![Esta es una imagen del sitio web en dispositivo móvil](./src/assets/app-mobile.jpg)
+
+## Links
+- URL Github: https://github.com/NellyMollocondo/advice-generator-app
+- URL Sitio web: https://nellymollocondo.github.io/advice-generator-app/
+
+## Construido con
+- React
+- CSS
+- JSX

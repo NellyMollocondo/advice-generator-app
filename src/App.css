@@ -8,8 +8,8 @@ main {
 }
 
 .card {
-    width: 100%;
-    max-width: 50%;
+    width: 80%;
+    max-width: 500px;
     min-width: 350px;
     position: relative;
     display: flex;
